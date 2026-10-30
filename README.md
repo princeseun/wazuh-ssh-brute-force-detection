@@ -101,5 +101,3 @@ This project demonstrates a practical implementation of security monitoring and 
 It shows how a SIEM solution can detect suspicious authentication activity and trigger an automated firewall action to protect a monitored Linux endpoint.
 
 **Status:** Successfully tested in a controlled home lab environment.
-
-<img width="760" height="417" alt="Image Oct 30, 2026, 06_25_50 AM" src="https://github.com/user-attachments/assets/2b75d882-a828-4bf3-9bfd-16fde5037c71" />
